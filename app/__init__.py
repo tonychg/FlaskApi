@@ -1,11 +1,8 @@
-#!/usr/bin/env python
-# coding: utf-8
 """
-    Author      : github.com/TonyChG
-    Date        : mer. 27 juin 2018 15:33:24 CEST
-    Description : 
+    Author      : CHINY Antoine
+    Date        : mer. 04 juil. 2018 15:13:13 CEST
+    Description :
     Usage       :
 
 """
-
 
