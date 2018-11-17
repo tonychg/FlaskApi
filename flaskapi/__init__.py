@@ -6,3 +6,11 @@
 
 """
 
+from flask import Flask
+from .resources import get_config
+
+app = Flask(__name__)
+config = get_config()
+
+if __name__ == '__main__':
+    app.run()
